@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Alaa Yasser
+#  Alaa Yasser
 
 ### Computer Science Student | Software Developer | Business Owner
 
